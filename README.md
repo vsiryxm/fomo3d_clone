@@ -19,11 +19,4 @@
 测试网络的克隆版本：
 [https://cryptofish.cc/](https://cryptofish.cc/)
 
-欢迎交流咨询:
-
-![](https://github.com/reedhong/fomo3d_clone/blob/master/src/images/wechat.jpeg)
-
-![](https://github.com/reedhong/fomo3d_clone/blob/master/src/images/xiaomiquan.png)
-
-注：小密圈中沉淀了不少内容，欢迎加入！
 
